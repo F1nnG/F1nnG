@@ -25,5 +25,5 @@ I enjoy working on side projects to enhance my skills and showcase my creativity
 
 Feel free to reach out to me. You can contact me via:
 
-[![linkedin](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finn.groenewoud@gmail.com)
+[![linkedin](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finn.groenewoud@gmail.com)<br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/finn-groenewoud-85713825a/)
