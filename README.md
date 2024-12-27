@@ -1,15 +1,15 @@
 # Finn Groenewoud
 ## About Me
 
-Hi there! 👋 I'm Finn, a passionate Backend Web Developer currently studying at the [Bit Academy](https://www.bit-academy.nl/).
+Hi there! 👋 I'm Finn, a passionate Backend Engineer currently studying at [Codam](https://www.codam.nl/).
 
 ### Skills
 
 Here are some of my key skills:
 
-- Php
-- Laravel
-- MySQL
+- C
+- Php (Laravel)
+- SQL
 - Html
 - Css
 - Javascript
