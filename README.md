@@ -1,7 +1,7 @@
 # Finn Groenewoud
 ## About Me
 
-Hi there! 👋 I'm Finn, a passionate Backend Engineer currently studying at [Codam](https://www.codam.nl/).
+Hi there! 👋 I'm Finn, a passionate Backend Engineer currently working at [23G](https://www.23g.nl/).
 
 ### Skills
 
